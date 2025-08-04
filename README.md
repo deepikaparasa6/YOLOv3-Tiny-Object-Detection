@@ -1,5 +1,31 @@
 # YOLOv3-Tiny-Object-Detection
 
+This project is an **AI-powered object detection system** built with **YOLOv3-Tiny** and **OpenCV**.  
+It can detect everyday objects in real-time from images, videos, or webcam streams.
+
+---
+
+
+## 🚀 Features
+- Real-time object detection using **YOLOv3-Tiny**
+- Supports **images**, **videos**, and **webcam**
+- Confidence score display for detected objects
+- Lightweight & fast — runs even on CPU
+- Customizable for your own object classes
+
+---
+
+## 🧠 Tech Stack
+| Library / Tool | Purpose |
+|----------------|---------|
+| **Python**     | Main programming language 🐍 |
+| **OpenCV**     | Image & video processing |
+| **YOLOv3-Tiny**| Lightweight deep learning model for object detection |
+| **Numpy**      | Data manipulation |
+| **cv2.dnn**    | OpenCV’s Deep Neural Network module |
+
+---
+
 
 ## 🚀 How to Run
 
